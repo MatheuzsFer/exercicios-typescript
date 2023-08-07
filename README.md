@@ -1,3 +1,3 @@
-# Curso: TypeScript#
+# Curso: TypeScript
 
 
